@@ -1,0 +1,10 @@
+{
+  "AzureOpenAI": {
+    "Endpoint": "<Azure-Resource-Endpoint>",
+    "DeploymentName": "<Deploymentname>"
+  },
+  "TMDB": {
+    "BaseUrl": "https://api.themoviedb.org",
+    "ReadAccessToken": "<Token>"
+  }
+}
