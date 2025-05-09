@@ -35,6 +35,7 @@ git clone https://github.com/olavgerritsen98/SemanticKernelAgents.git
 
 # configure secrets
 Go to kernelConfig.json
+Add the Azure OpenAI Resource endpoint and deployment name
 Add the TMDB api key
 
 # run the console chat
