@@ -31,7 +31,7 @@
 
 ```bash
 # clone & restore packages
-git clone https://github.com/olavgerritsen98/SemanticKernelAgents.git
+git clone https://github.com/olavgerritsen98/SemanticKernelAgentsDemo.git
 
 # configure secrets
 Go to kernelConfig.json
